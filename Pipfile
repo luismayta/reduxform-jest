@@ -26,7 +26,8 @@ bumplus = "*"
 pre-commit = "*"
 
 [packages]
-
+aws = "*"
+awscli = "*"
 
 [scripts]
 test = "pytest"
